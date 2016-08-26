@@ -1,5 +1,5 @@
 # php-practices
-##Exercises working with php programming using Sublime Text Editor 3 and run-easyphp-devserver
+Exercises working with php programming using Sublime Text Editor 3 and run-easyphp-devserver
 
 
 ###Steps to set up in php practices using php devserver
